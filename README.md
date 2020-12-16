@@ -14,6 +14,21 @@ Part of the codes and their modifications were used in papers:
 
 Currently, functions are not well structured and organised. More descriptions and usage examples will be added .......
 
+
+# Some Key Functions
+
+* `preprocess.m`: Preprocess data obtained from experiement equipments.  
+* `batch_E.m`: Activation energy calculation from different methods.
+* `daem_point_fit.m`: DAEM method in a point-wise style.  
+* `daem_distribution.m`: Make plots for decomposed composnents of f(E) from DAEM method.  
+* `daem_simulate.m`: Make curves simulated with parameters calculated from DAEM method.
+* `analysis_plots.m`: Making plots for general thermal dynamic variables.  
+* `masterG_modified.m`: Making masterplots for deciding reaction functions.  
+
+
+# Some sample plots
+
+
 If you feel like the repo is useful, please kindly cite this repo.
 
 
