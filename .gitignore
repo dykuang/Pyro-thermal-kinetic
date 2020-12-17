@@ -1,9 +1,8 @@
 *.mat
-*.png
 *.pdf
-CORNCOAL55\*
-Coal\*
-CORN STOVE\*
+CORNCOAL55/
+Coal/
+CORN STOVE/
 *.xlsx
 *.txt
 *.csv
