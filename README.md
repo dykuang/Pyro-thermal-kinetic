@@ -27,7 +27,24 @@ Currently, functions are not well structured and organised. More descriptions an
 
 
 # Some sample plots
+TG/DTG plots:  
+<img src = '/sample plots/cc_tg.png' height="260" width="360"><img src = '/sample plots/cc_dtg.png' height="260" width="360">    
 
+Activation Energy E plots:    
+<img src = '/sample plots/FWO_E.png' height="260" width="360">
+
+Thermal dynamical parameter plot:  
+<img src = '/sample plots/FWO_dG.png' height="260" width="360"><img src = '/sample plots/cc_ds.png' height="260" width="360"> 
+
+DAEM Decomposition plot:  
+<img src = '/sample plots/cc_daem_rec15.png' height="260" width="360">
+<img src = '/sample plots/cc_fe.png' height="260" width="360">  
+
+Thermal dynamical parameter plot with estimation uncertainty (DAEM):    
+<img src = '/sample plots/cc_E_bar.png' height="260" width="360"><img src = '/sample plots/cc_E.png' height="260" width="360"> 
+
+Master Plot:  
+<img src = '/sample plots/master.png' height="260" width="360">
 
 If you feel like the repo is useful, please kindly cite this repo.
 
